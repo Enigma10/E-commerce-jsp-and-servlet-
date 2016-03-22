@@ -1,0 +1,154 @@
+root { 
+    display: block;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{    
+    text-align:center;    
+}
+#login_in{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+}
+#date{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    float: right;
+}
+#invalid_login{    
+    position: absolute;
+    top: 10px;
+    left:400px;
+    float:right;
+}
+#user_info{
+    position:absolute;
+    top:10px;
+    left:650px;
+
+}
+#wrong_user{
+    position:absolute;
+    top:10px;
+    left:400px;
+    float:right;
+}
+.logmeout{
+    position:absolute;
+    top:10px;
+    left:1000px;
+    float:right;
+    text-align: right;
+}
+
+#big_wrapper{
+    text-align:left;
+    width: 1000px;
+    border: 3px yellowgreen solid;
+    margin: 60px auto;
+}
+
+#top_header{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    background-color: green; 
+    color: white;    
+    padding:20px;
+    text-align: center;    
+}
+
+#links{
+    border: 2px bisque solid;
+    font-style: italic;
+    background-color: black ;
+   
+  color: white;
+    padding: 10px;
+}
+#links li{
+    list-style: none;
+    font-size: 14px;
+    display: inline-block;     
+    padding-left: 80px;
+    padding-right: 80px;
+}
+/*li a.hover{
+    background-color: aqua;
+    color : white;
+    list-style: none;   
+}
+*/
+
+#main_content{
+    float:left;
+    width: 660px;    
+}
+#main_article{
+    padding:20px;
+    margin:30px;
+    border: 2px black double;
+}
+#inner_article{
+    margin-top:20px;
+    padding:4px;
+    border: 2px coral solid;
+}
+#inner_artcile_heading{
+    font-weight: bold;    
+}
+#inner_artcile_dealer{
+    font-style: italic;    
+}
+#quantity{    
+    float: right;   
+}
+#add_to_cart{
+    position: absolute;
+    margin:1px;
+    float: right;   
+    top:240px;
+    left:700px;     
+}
+#total_cart_items{
+    position: absolute;
+    margin:1px;
+    float: right;   
+    top:240px;
+    left:400px;     
+}
+#finish_n_checkout{
+    position: absolute;
+    margin:1px;
+    float: right;   
+    top:210px;
+    left: 700px;    
+
+}
+
+#table_data_dont_update_this{
+    width:100px;
+}
+#updates{
+    float: left;
+    border: 2px chocolate solid;
+    padding: 20px;
+    width: 200px;    
+    margin-top: 15px;
+    margin-bottom:10px;
+}
+
+
+#the_footer{
+    clear:both;
+    text-align:center;
+    padding: 20px;
+    border-top: 1px brown solid;
+    background-color: brown;
+}
+*/

@@ -1,0 +1,74 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+.navbar-default{
+
+
+}
+
+.navbar-default a{
+
+}
+
+.btn-primary{
+
+}
+
+.row-main{
+    margin-top:5%;
+}
+.panel-body{
+    padding-top: 4%;
+}
+.panel-table{
+    padding-top: 1% !important;
+    text-align: center;
+}
+thead{
+    font-size: large;
+}
+.form-group .signup{
+    padding-top: 3% !important;
+}
+
+.modal{
+    margin-top: 10% !important;
+}
+
+#login_block{
+    margin-top: 10% !important;
+}
+
+#content {
+    background-image: url(../image/login2.JPG);
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:730px;
+}
+
+.sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0px;
+    left: 0px;
+    display: block;
+    padding: 30px;
+    background-color: #F5F5F5;
+}
+
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+
+.smallTable{
+    font-size: 12px;
+}
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
