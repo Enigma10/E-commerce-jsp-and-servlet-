@@ -1,18 +1,20 @@
-# E-commerce-jsp-and-servlet-
+E-commerce-jsp-and-servlet
+===========================
 
 
+* To implement this project , either import the project source code in eclipse ide environment.
 
-1.)To implement this project , either import the project source code in eclipse ide environment.
+* Or alternatively you can import the war file to eclipse and then run the project.
 
+-run index.jsp as the starting page
 
- 
-2.)Or alternatively you can import the war file to eclipse and then run the project.
+-register for common user use.
 
----run index.jsp as the starting page
----register for common user use.
----sign in with admin credentials for the admin view
+-sign in with admin credentials for the admin view
+
 
 admin credentials
+-----------------
 
-username: Krishna
-password: Ram
+__username__: Krishna
+__password__: Ram
