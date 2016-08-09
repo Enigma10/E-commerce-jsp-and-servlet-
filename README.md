@@ -12,9 +12,10 @@ E-commerce-jsp-and-servlet
 
 -sign in with admin credentials for the admin view
 
-
 admin credentials
 -----------------
 
 __username__: Krishna
 __password__: Ram
+
+:P
